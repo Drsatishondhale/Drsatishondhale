@@ -1,16 +1,10 @@
-### Hi this is Dr. Satish Jondhale 👋
+### Hi this is Dr. Satish Jondhale. My overall career represents a great mix of data analysis and research with hands-on statistical analysis, data preparation for building the models, testing model performance, mentoring, and coaching. Ability to quickly learn new platforms, API’s, and languages. 👋
 
 <!--
-**Drsatishondhale/Drsatishondhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Speech Analytics
-- 🌱 I’m currently learning Audio Source Sepation Project
-- 👯 I’m looking to collaborate on experts in the Speech Analytics
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about writting research articles for SCI indexed journals.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I’m currently working on Speech Analytics, and I’m actively involved learning "Audio Source Sepation" Project.
+-    His publications, h-index and quality of research can be found at:
+        https://scholar.google.co.in/citations?user=HrzU9D4AAAAJ&hl=en
+        https://publons.com/researcher/3027857/jondhale/                                       
+- My teaching skills can be found at https://www.youtube.com/channel/UCs0oqgXVwp7LsqQgYKfEuVA/featured
+- I have been a reviewer for peer reviewed journals such as IEEE Transactions on Industrial Informatics, IEEE Sensors, Signal Processing (Elsevier), IEEE Access, IEEE Signal Processing Letters, and Ad Hoc, Sensor Wireless Networks and so on.
 -->
